@@ -92,16 +92,16 @@
 		</dependency>	
 	</dependencies>
 	<distributionManagement>
-	    <repository>
+	    <release>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.73.163:8081/repository/Tesla-web-releases/</url>
+	      <url>http://44.200.107.170:8081/repository/sonel-release-repos/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.73.163:8081/repository/Tesla-snapshots/</url>
+	      <url>http://44.200.107.170:8081/repository/eneo-snapshots-repos/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
